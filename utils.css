@@ -1,0 +1,18 @@
+.Text-Center{
+    text-align: center;
+}
+.Mx-Auto{
+    margin: auto;
+}
+.Flex{
+    display: flex;
+}
+.Flex-Vertical{
+    flex-direction: column;
+}
+.Justify{
+    justify-content: center;
+}
+.Item-Center{
+    align-items: center;
+}
